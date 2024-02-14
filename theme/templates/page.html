@@ -1,0 +1,8 @@
+{% extends "base/base.html" %}
+{% block content %}
+<div id="page-{{page_name}}" class="page">
+    {{ pages[page_name+".md"].content }}
+</div>
+
+
+{% endblock %}

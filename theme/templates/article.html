@@ -1,0 +1,16 @@
+{% extends "base/base.html" %}
+{% block head %}
+{{ super() }}
+
+{% for tag in meta.tags %}
+<meta name="tags" contents="{{tag}}" />
+{% endfor %}
+
+{% endblock %}
+{% block content %}
+{% set pageName = "arkiv" %}
+        <div id="page-{{pageName}}" class="page">
+            {% include 'base/article_kernel.html' %}
+        </div>
+
+{% endblock %}

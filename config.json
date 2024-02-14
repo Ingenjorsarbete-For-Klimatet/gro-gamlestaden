@@ -1,0 +1,31 @@
+{
+    "author": "Ingenjörsarbete För Klimatet",
+    "sitename": "Gro Gamlestaden",
+    "siteurl": "https:///ingenjorsarbete-for-klimatet.github.io/gro-gamlestaden",
+    "timezone": "Europe/Stockholm",
+    "default_lang": "sv",
+    "theme_path": "theme",
+    "src_path": "content",
+    "build_path": "output",
+    "home": "post_list",
+    "menuitems": {
+        "Gro Gamlestaden": "post_list",
+        "Om oss": "om",
+        "Odling": "odling",
+        "Media": "media",
+        "Övriga Projekt": "ovriga_projekt",
+        "Samarbeten": "sammarbeten"
+    },
+    "post_url": "{{post_url}}",
+    "build_date_template": "{{update_date}}",
+    "thumbnail_size": [
+        300,
+        300
+    ],
+    "markdown_extensions": [
+        "meta",
+        "fenced_code",
+        "mdx_math"
+    ],
+    "s3-bucket": ""
+}

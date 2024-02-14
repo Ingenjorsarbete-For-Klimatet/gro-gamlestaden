@@ -1,0 +1,12 @@
+{% extends "base/base.html" %}
+{% block content %}
+{% set pageName = "hem" %}
+        <div id="page-{{pageName}}" class="page">
+            <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
+                {% for article in articles %}
+                {% include 'base/archive_kernel.html' %}
+                {% endfor %}
+            </ol>
+        </div>
+
+{% endblock content %}
