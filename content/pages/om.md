@@ -15,4 +15,4 @@ Vi ser det därför som viktigt att belysa alternativ till hur staden kan funger
 
 ## Kontakt
 
-email: grogamlestaden@gmail.com
+Kontakta oss gärna via mail eller facebook (symboler nedan).
