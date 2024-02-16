@@ -47,7 +47,7 @@
 	{% if menuitems %}
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">	
 			{% for title, link in (menuitems.items() | list)[:1] %}
-				<a class="navbar-brand nav_link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" {% if ( link=="hem" ) %} href="/gro-gamlestaden/" {% else %} href="/gro-gamlestaden/{{link}}/" {% endif %}>
+				<a class="navbar-brand nav_link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" href="/gro-gamlestaden/">
 					{{title}}</a>
 			{% endfor %}
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
