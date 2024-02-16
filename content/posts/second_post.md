@@ -7,4 +7,4 @@ tags: odling
 status: published
 ---
 
-Text
+Möte hålls med Göteborgs kommun.

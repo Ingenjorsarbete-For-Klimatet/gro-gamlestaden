@@ -8,7 +8,11 @@ status: published
 
 ## Fröbibliotek
 
-Fröbiblioteket är ett projekt som drivs i lokalen på Lars Kaggsgatan 35D. Här kan du som odlar hämta, donera, eller ”låna” fröer som passar för din odling. Vår intention är att bygga upp en samling med fröer för odlare som, genom deras engagemang förnyas regelbundet och underlättar odlingsinitiativ i närområdet eller på andra orter.
+Fröbiblioteket är ett projekt som drivs i lokalen på Lars Kaggsgatan 35D. Här
+kan du som odlar hämta, donera, eller ”låna” fröer som passar för din odling.
+Vår intention är att bygga upp en samling med fröer för odlare som, genom deras
+engagemang förnyas regelbundet och underlättar odlingsinitiativ i närområdet
+eller på andra orter.
 
 ## Ekoby Kviberg
 
