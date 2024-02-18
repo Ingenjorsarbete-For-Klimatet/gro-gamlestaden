@@ -1,15 +1,11 @@
                         <article class="article">
                             <header>
-                                <h1 class="entry-title">{{ meta.title }}</h1>
+                                <h1>{{ meta.title }}</h1>
                                 <span class="published" title="{{ meta.date.isoformat() }}">
-                                    / {{ meta.date.strftime("%Y-%m-%d") }} /
+                                    {{ meta.date.strftime("%Y-%m-%d") }}
                                 </span>
-                                <span class="entry-title">
-                                    {{ meta.category }}
-                                </span>
-
                             </header>
-                            <div class="article-content hyphenate">
+                            <div>
                                 <div class="article-body">
                                     {{ article_content }}
                                 </div>
