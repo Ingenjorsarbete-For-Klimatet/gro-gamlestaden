@@ -83,86 +83,18 @@ html, body {
 /* End Menu */
 
 /* Footer */
-#footer {
-    text-transform: none;
-    font-size: 1.25em;
-    margin: 40px auto;
-    padding: 0 40px;
-    height: 50px;
-    display: flex;
-    justify-content: space-between;
-    max-width: 960px;
-}
 
-#footer ul {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    list-style: none;
-    display: flex;
-}
-
-#footer li {
-    display: flex;
-    align-items: center;
-    height: 50px;
-    position: relative;
-}
-
-#footer li:first-child a, #footer li:first-child p {
-    padding: 0 20px 0 0;
-}
-
-#footer li:last-child a, #footer li:last-child p {
-    padding: 0 0 0 20px;
-}
-
-#footer li a, #footer li p {
-    padding: 0 20px;
-}
 /* End Footer */
 
 /* Content */
-#main {
-    margin: 0 40px;
-    font-size: 1.25em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 400;
-}
-h1 {
-    font-size: 2em;
-}
-h2 {
-    font-size: 1.8em;
-}
-h3 {
-    font-size: 1.5em;
-}
-h4 {
-    font-size: 1.25em;
-}
-h5 {
-    font-size: 1.25em;
-}
-h6 {
-    font-size: 2em;
-}
 
 #main .page {
     margin: 0 auto;
-    max-width: 960px;
+    padding: 1%;
 }
 
 #main .page p {
     line-height: 1.75;
-}
-
-#page-hem {
-    display: flex;
-    gap: 0 10px;
-
 }
 /* End Content */
 
@@ -272,4 +204,16 @@ a.button {
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
 
+}
+
+h1 {
+    margin-top: 3rem;
+}
+
+h2 {
+    margin-top: 3rem;
+}
+
+h3 {
+    margin-top: 3rem;
 }
