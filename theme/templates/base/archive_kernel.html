@@ -1,16 +1,13 @@
 <li class="list-style list-style-tiles" data-list="{{ article.date.strftime('%Y-%m-%d') }}" data-month="{{ article.date.strftime('%m') }}">
     <a id="{{ article.slug }}" href="/gro-gamlestaden/{{ article.path }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
-        <article class="hentry">
+        <article class="">
             <header>
-                <h5 class="entry-date entry-title">
-                    {{ article.date.strftime('%Y-%m-%d') }} /
-                </h5>
-                <!--<h5 class="entry-title">
-                    {{ article.category }} /
-                </h5> -->
-                <h5 class="entry-title">
+                <h3 class="mt-5">
                     {{ article.title }}
                 </h5>
+                <p class="lead">
+                    {{ article.date.strftime('%Y-%m-%d') }}
+                </p>
             </header>
             <summary>
                 {{ all_posts[article.path.split("/")[-1]+".md"].content[:100] }}...
