@@ -1,5 +1,14 @@
 {% extends "base/base.html" %}
+
+
+
 {% block content %}
+
+<div id="page-{{pageName}}" class="container">
+    <h1> Välkommen till Gro Gamlestaden </h3>
+        <p> Nedan presenteras föreningens aktuella händelser. </p>
+</div>
+
 {% set pageName = "hem" %}
         <div id="page-{{pageName}}" class="container">
             <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
