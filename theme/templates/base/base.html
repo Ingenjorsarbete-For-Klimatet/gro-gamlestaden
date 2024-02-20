@@ -33,14 +33,15 @@
 			<a class="navbar-brand" href="/gro-gamlestaden/">
 				<img src="/gro-gamlestaden/css/gro_logo.jpg" width="90" height="90" alt="Gro Gamlestaden">
 			  </a>
+			  <a class="navbar-brand" href="/gro-gamlestaden/" style="font-family:sans-serif ">Gro Gamlestaden</a>
 				<!--<a class="navbar-brand nav_link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" href="/gro-gamlestaden/">
 					{{title}}</a> -->
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<div class="collapse navbar-collapse" id="navbarNav"">
+			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav">
-					{% for title, link in (menuitems.items() | list)[1:6] %}
+					{% for title, link in (menuitems.items() | list)[1:7] %}
 					<li class="nav-item" id="nav-{{ title }}" title="{{ title }}">
 						<a class="nav-{{ title }} nav-link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" {% if ( link=="hem" ) %} href="/gro-gamlestaden/" {% else %} href="/gro-gamlestaden/{{link}}/" {% endif %}>
 							{{title}}
