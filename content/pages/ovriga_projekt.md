@@ -4,6 +4,7 @@ date: 2024-01-25
 author: Daniel Johansson
 type: page
 status: published
+data:
 ---
 
 ## Fröbibliotek
@@ -13,6 +14,8 @@ kan du som odlar hämta, donera, eller ”låna” fröer som passar för din od
 Vår intention är att bygga upp en samling med fröer för odlare som, genom deras
 engagemang förnyas regelbundet och underlättar odlingsinitiativ i närområdet
 eller på andra orter.
+
+<img src="data/pexels-binyamin-mellish.jpg" alt="Planterar" width=100%>
 
 ## Ekoby Kviberg
 
