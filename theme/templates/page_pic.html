@@ -2,8 +2,13 @@
 {% block content %}
 
 <div id="page-{{page_name}}" class="container">
+    <div class="row">
       <div class="col-sm">
         {{ pages[page_name+".md"].content }}
+      </div>
+      <div class="col-sm">
+        <img src="css\pexels-r-khalil.jpg" alt="..." class="img-thumbnail">
+      </div>
     </div>
   </div>
 

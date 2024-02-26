@@ -2,14 +2,15 @@
 title: Odling
 date: 2024-01-25
 author: Daniel Johansson
-type: page
+type: page_pic
 status: published
+image: 
 ---
 
 ## Odling
 
 Utanför vår lokal på Lars Kaggsgatan 35 har vi fått förfogande att odla på en
-areal om xxx kvm. På dessa kvadratmeter har vi valt att odla basvaror åt samtliga
+areal om 200 kvm. På dessa kvadratmeter har vi valt att odla basvaror åt samtliga
 gamlestadsbor, eller de människor som råkar ha vägarna förbi,  enligt ett
 växtföljdsschema om 4 år. Hur odlingen har planerats, vilka grödor som finns samt
 när dem är redo för skörd finns angivet på informationstavlan precis framför

@@ -5,17 +5,26 @@
 {% block content %}
 
 <div id="page-{{pageName}}" class="container">
-    <h1> Välkommen till Gro Gamlestaden </h3>
-        <p> Nedan presenteras föreningens aktuella händelser. </p>
-</div>
+    <div class="row">
+        <div class="col-sm">
+            <h1> Välkommen till Gro Gamlestaden </h3>
+            <p> Nedan presenteras föreningens aktuella händelser. </p>
 
-{% set pageName = "hem" %}
-        <div id="page-{{pageName}}" class="container">
-            <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
-                {% for article in articles %}
-                {% include 'base/archive_kernel.html' %}
-                {% endfor %}
-            </ol>
+            {% set pageName = "hem" %}
+
+            <div id="page-{{pageName}}">
+                <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
+                    {% for article in articles %}
+                    {% include 'base/archive_kernel.html' %}
+                    {% endfor %}
+                </ol>
+            </div>
+
         </div>
 
+        <div class="col-sm mt-5">
+            <img src="/css/pexels-r-khalil.jpg" alt="..." class="img-thumbnail">
+        </div>     
+    </div>
+</div>
 {% endblock content %}

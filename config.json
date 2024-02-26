@@ -10,12 +10,12 @@
     "home": "post_list",
     "menuitems": {
         "Gro Gamlestaden": "post_list",
-        "Om oss": "om",
         "Nyheter": "hem",
         "Odling": "odling",
         "Media": "media",
         "Övriga Projekt": "ovriga_projekt",
-        "Samarbeten": "sammarbeten"
+        "Samarbeten": "sammarbeten",
+        "Om oss": "om"
     },
     "post_url": "{{post_url}}",
     "build_date_template": "{{update_date}}",

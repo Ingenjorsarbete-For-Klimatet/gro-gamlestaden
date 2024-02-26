@@ -2,7 +2,7 @@
 title: Gro Gamlestaden
 date: 2024-01-25
 author: Christoffer Strömberg
-type: hem
+type: page_pic2
 status: published
 ---
 

@@ -17,4 +17,4 @@ sig i social- och ekologiskt hållbarhet för närområdet eller på större ska
 Föreningens ambition är att samla och underhålla projekt som tjänar detta syftet
 utan att tjäna individuella, ekonomiska intressen. Ett av grundmålen med
 föreningen är att möjliggöra ökad självständighet för medlemmar och boende i
-närområdet. ”
+närområdet.”
