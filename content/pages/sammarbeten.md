@@ -6,7 +6,7 @@ type: page
 status: published
 ---
 
-## Sammarbeten
+## Samarbeten
 
  Flera av våra projekt har växt fram med hjälp av eller tack vare våra
  samarbetspartners. Vi hoppas kunna bidra till ett ökat samarbete mellan
@@ -16,7 +16,5 @@ status: published
 
 * Cykelköket Gamlestaden
 * Ingenjörsarbete För Klimatet (IFK)
-* Potatisuppropet
 * Kompostleffe
 * BID Gamlestaden
-* Ekologisk Stadsdel Majorna
