@@ -14,6 +14,8 @@ Vår intention är att bygga upp en samling med fröer för odlare som, genom de
 engagemang förnyas regelbundet och underlättar odlingsinitiativ i närområdet
 eller på andra orter.
 
+<img src="data/pexels-binyamin-mellish.jpg" alt="Planterar" width=100%>
+
 ## Ekoby Kviberg
 
 Mer info kommer inom kort.
