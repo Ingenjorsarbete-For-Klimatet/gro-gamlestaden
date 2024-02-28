@@ -9,8 +9,9 @@ image:
 
 ## Odling
 
-Utanför vår lokal på Lars Kaggsgatan 35 har vi fått förfogande att odla på en
-areal om 200 kvm. På dessa kvadratmeter har vi valt att odla basvaror åt samtliga
+Vi är just nu i samtal med kommunen angående att få tillgång till en gemensam
+yta att driva en stadsodling på.
+På dessa kvadratmeter har vi valt att odla basvaror åt samtliga
 gamlestadsbor, eller de människor som råkar ha vägarna förbi,  enligt ett
 växtföljdsschema om 4 år. Hur odlingen har planerats, vilka grödor som finns samt
 när dem är redo för skörd finns angivet på informationstavlan precis framför
