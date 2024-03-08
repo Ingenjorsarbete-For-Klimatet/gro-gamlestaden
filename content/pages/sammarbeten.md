@@ -14,7 +14,8 @@ status: published
  leva efter sina egna villkor. Föreningar som vi samarbetar eller har kontakt
  med är:
 
-* Cykelköket Gamlestaden
-* Ingenjörsarbete För Klimatet (IFK)
-* Kompostleffe
-* BID Gamlestaden
+* <a href="https://www.cykelkoket.org/" target="_blank">Cykelköket Gamlestaden</a>
+* <a href="https://ingenjorsarbeteforklimatet.se" target="_blank">Ingenjörsarbete
+För Klimatet (IFK)</a>
+* <a href="https://stadsdelsvaxthus.se" target="_blank">Stadsdelsväxthus i Majorna</a>
+* <a href="https://bidgamlestaden.se/" target="_blank">BID Gamlestaden</a>
