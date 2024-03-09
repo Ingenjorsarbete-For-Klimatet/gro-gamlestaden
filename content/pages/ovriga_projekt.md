@@ -27,4 +27,5 @@ Mer info kommer inom kort.
 Mer info kommer inom kort.
 
 ## Ekoby Kviberg
+
 Mer info kommer inom kort.

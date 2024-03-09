@@ -9,12 +9,12 @@ image:
 
 ## Odling
 
-Gro Gamlestaden vill bedriva Stadsdelsodlingar i Östra Göteborg. 
+Gro Gamlestaden vill bedriva Stadsdelsodlingar i Östra Göteborg.
 
-Vi är just nu i samtal med kommunen angående möjliga platser där dessa planer 
+Vi är just nu i samtal med kommunen angående möjliga platser där dessa planer
 kan realiseras.
 På dessa kvadratmeter har vi valt att odla basvaror åt samtliga
-boende i stadsdelen, eller de människor som råkar ha vägarna förbi. 
+boende i stadsdelen, eller de människor som råkar ha vägarna förbi.
 Hur odlingen har planerats, vilka grödor som finns samt
 när dem är redo för skörd finns angivet på informationstavlan precis framför
 odlingarna. Vi ber alla som besöker platserna att hjälpa till att hålla det snyggt,
@@ -23,18 +23,18 @@ fler delar av staden.
 
 ### Hur odlar vi?
 
-Våra odlingar följer enkla principer. 
+Våra odlingar följer enkla principer.
 
 Vi ämnar att odla ekologiskt och hållbart utifrån ett längre perspektiv.
 Detta innebär att vi roterar våra grödor på ett sådant sätt att
-jorden inte utarmas på enstaka näringsämnen. Vi är också varse om vad 
-vi planterar och hur det kan påverka vår omgivning. 
+jorden inte utarmas på enstaka näringsämnen. Vi är också varse om vad
+vi planterar och hur det kan påverka vår omgivning.
 
-Våra grödor väljs utifrån hållpunkterna: 
+Våra grödor väljs utifrån hållpunkterna:
 högt matvärde, rikgivande,och enkla att sköta.
 
-Vi odlar inte grödor som riskerar att skördas i för stor uträckning av 
-enskilda individer, t.ex. av ekonomiska skäl. 
+Vi odlar inte grödor som riskerar att skördas i för stor uträckning av
+enskilda individer, t.ex. av ekonomiska skäl.
 
 ### Vilka får skörda?
 
@@ -61,4 +61,3 @@ att vi lär oss av varandra.
 Vill du vara med för att lära dig mer om odling, vara del av projektet, eller
 bara få arbeta med kroppen så tveka inte på att höra av dig. Vi tar gärna emot
 synpunkter, förslag och nya deltagare.
-
