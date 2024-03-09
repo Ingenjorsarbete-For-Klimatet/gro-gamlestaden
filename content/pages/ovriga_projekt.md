@@ -18,14 +18,13 @@ eller på andra orter.
 <img src="data/pexels-binyamin-mellish.jpg" alt="Planterar" width=100%
 class="img-thumbnail">
 
-## Ekoby Kviberg
-
-Mer info kommer inom kort.
-
 ## Biodling
 
 Mer info kommer inom kort.
 
 ## Kompost
 
+Mer info kommer inom kort.
+
+## Ekoby Kviberg
 Mer info kommer inom kort.
