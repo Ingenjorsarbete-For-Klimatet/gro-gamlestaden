@@ -16,9 +16,9 @@ kan realiseras.
 På dessa kvadratmeter har vi valt att odla basvaror åt samtliga
 boende i stadsdelen, eller de människor som råkar ha vägarna förbi.
 Hur odlingen har planerats, vilka grödor som finns samt
-när dem är redo för skörd finns angivet på informationstavlan precis framför
+när de är redo för skörd finns angivet på informationstavlan precis framför
 odlingarna. Vi ber alla som besöker platserna att hjälpa till att hålla det snyggt,
-nyttja sunt förnuft samt sprida idéen om självförsörjande stadsdelar vidare till
+nyttja sunt förnuft samt sprida idén om självförsörjande stadsdelar vidare till
 fler delar av staden.
 
 ### Hur odlar vi?
@@ -31,7 +31,7 @@ jorden inte utarmas på enstaka näringsämnen. Vi är också varse om vad
 vi planterar och hur det kan påverka vår omgivning.
 
 Våra grödor väljs utifrån hållpunkterna:
-högt matvärde, rikgivande,och enkla att sköta.
+Högt matvärde, rikgivande och enkla att sköta.
 
 Vi odlar inte grödor som riskerar att skördas i för stor uträckning av
 enskilda individer, t.ex. av ekonomiska skäl.

@@ -1,5 +1,5 @@
 ---
-title: Odling
+title: Medlemskap
 date: 2024-01-25
 author: Daniel Johansson
 type: page
