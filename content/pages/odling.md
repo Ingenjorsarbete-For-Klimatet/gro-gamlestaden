@@ -9,15 +9,32 @@ image:
 
 ## Odling
 
-Vi är just nu i samtal med kommunen angående att få tillgång till en gemensam
-yta att driva en stadsodling på.
+Gro Gamlestaden vill bedriva Stadsdelsodlingar i Östra Göteborg.
+
+Vi är just nu i samtal med kommunen angående möjliga platser där dessa planer
+kan realiseras.
 På dessa kvadratmeter har vi valt att odla basvaror åt samtliga
-gamlestadsbor, eller de människor som råkar ha vägarna förbi,  enligt ett
-växtföljdsschema om 4 år. Hur odlingen har planerats, vilka grödor som finns samt
-när dem är redo för skörd finns angivet på informationstavlan precis framför
-odlingen. Vi ber alla som besöker området att hjälpa till att hålla det snyggt,
-nyttja sunt förnuft samt sprida idéen om självförsörjande stadsdelar vidare till
+boende i stadsdelen, eller de människor som råkar ha vägarna förbi.
+Hur odlingen har planerats, vilka grödor som finns samt
+när de är redo för skörd finns angivet på informationstavlan precis framför
+odlingarna. Vi ber alla som besöker platserna att hjälpa till att hålla det snyggt,
+nyttja sunt förnuft samt sprida idén om självförsörjande stadsdelar vidare till
 fler delar av staden.
+
+### Hur odlar vi?
+
+Våra odlingar följer enkla principer.
+
+Vi ämnar att odla ekologiskt och hållbart utifrån ett längre perspektiv.
+Detta innebär att vi roterar våra grödor på ett sådant sätt att
+jorden inte utarmas på enstaka näringsämnen. Vi är också varse om vad
+vi planterar och hur det kan påverka vår omgivning.
+
+Våra grödor väljs utifrån hållpunkterna:
+Högt matvärde, rikgivande och enkla att sköta.
+
+Vi odlar inte grödor som riskerar att skördas i för stor uträckning av
+enskilda individer, t.ex. av ekonomiska skäl.
 
 ### Vilka får skörda?
 

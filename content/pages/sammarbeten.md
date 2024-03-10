@@ -19,3 +19,4 @@ status: published
 För Klimatet (IFK)</a>
 * <a href="https://stadsdelsvaxthus.se" target="_blank">Stadsdelsväxthus i Majorna</a>
 * <a href="https://bidgamlestaden.se/" target="_blank">BID Gamlestaden</a>
+* Göteborgs kommun
