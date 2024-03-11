@@ -22,7 +22,7 @@
 	</style>
 	<!-- End font loading -->
 	<!-- Load CSS -->
-	<link rel="stylesheet" type="text/css" href="/gro-gamlestaden/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/css/style.css" />
 	<!-- End Load CSS -->
 	{% endblock head %}
 </head>
@@ -30,11 +30,11 @@
 <body>
 	{% if menuitems %}
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">	
-			<a class="navbar-brand" href="/gro-gamlestaden/">
-				<img src="/gro-gamlestaden/css/gro_logo_trans.png" width="70" height="70" alt="Gro Gamlestaden">
+			<a class="navbar-brand" href="/">
+				<img src="/css/gro_logo_trans.png" width="70" height="70" alt="Gro Gamlestaden">
 			  </a>
-			  <a class="navbar-brand" href="/gro-gamlestaden/" style="font-family:sans-serif ">Gro Gamlestaden</a>
-				<!--<a class="navbar-brand nav_link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" href="/gro-gamlestaden/">
+			  <a class="navbar-brand" href="/" style="font-family:sans-serif ">Gro Gamlestaden</a>
+				<!--<a class="navbar-brand nav_link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" href="/">
 					{{title}}</a> -->
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -43,7 +43,7 @@
 				<ul class="navbar-nav">
 					{% for title, link in (menuitems.items() | list)[1:7] %}
 					<li class="nav-item" id="nav-{{ title }}" title="{{ title }}">
-						<a class="nav-{{ title }} nav-link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" {% if ( link=="hem" ) %} href="/gro-gamlestaden/" {% else %} href="/gro-gamlestaden/{{link}}/" {% endif %}>
+						<a class="nav-{{ title }} nav-link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" {% if ( link=="hem" ) %} href="/" {% else %} href="/{{link}}/" {% endif %}>
 							{{title}}
 						</a>
 					</li>
