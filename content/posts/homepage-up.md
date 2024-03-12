@@ -7,6 +7,7 @@ tags: odling
 status: published
 ---
 
-Vi tackar föreningen 'Ingenjörsarbete för Klimatet' för hjälpen men att ordna en
-hemsida. Vi har från dem fått hjälp med all programmering i tekniska detaljer
-som rör sidan,  vilket har varit jätteuppskattat.
+Vi tackar föreningen <a href='https://ingenjorsarbeteforklimatet.se/'
+target="_blank">Ingenjörsarbete för Klimatet</a> för hjälpen men att
+ordna en hemsida. Vi har från dem fått hjälp med all programmering i
+tekniska detaljer som rör sidan, vilket har varit jätteuppskattat.
