@@ -8,6 +8,6 @@ status: published
 ---
 
 Vi tackar föreningen <a href='https://ingenjorsarbeteforklimatet.se/'
-target="_blank">Ingenjörsarbete för Klimatet</a> för hjälpen men att
+target="_blank">Ingenjörsarbete för Klimatet</a> för hjälpen med att
 ordna en hemsida. Vi har från dem fått hjälp med all programmering i
 tekniska detaljer som rör sidan, vilket har varit jätteuppskattat.
