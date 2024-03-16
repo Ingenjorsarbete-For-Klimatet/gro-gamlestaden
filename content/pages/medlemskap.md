@@ -25,5 +25,5 @@ skördetider, så kan du registrera dig i fältet nedan.
 
 <iframe src="https://docs.google.com/forms/d/e/
 1FAIpQLSeqbZaPCw-62A8QtyPQS4QScgOsQG3jDK99WR_W-GlP4Gxcsw/viewform?embedded=true"
-width="640" height="558" frameborder="0" marginheight="0" marginwidth="0">Loading…
+width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
