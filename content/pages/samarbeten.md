@@ -14,9 +14,9 @@ status: published
  leva efter sina egna villkor. Föreningar som vi samarbetar eller har kontakt
  med är:
 
-* <a href="https://www.cykelkoket.org/" target="_blank">Cykelköket Gamlestaden</a>
-* <a href="https://ingenjorsarbeteforklimatet.se" target="_blank">Ingenjörsarbete
-För Klimatet (IFK)</a>
-* <a href="https://stadsdelsvaxthus.se" target="_blank">Stadsdelsväxthus i Majorna</a>
-* <a href="https://bidgamlestaden.se/" target="_blank">BID Gamlestaden</a>
-* <a href="https://stadsnaraodling.goteborg.se/" target="_blank">Göteborgs kommun</a>
+* <a href="https://cykelkok.se/cykelkoket-gamlestan" target="_blank"><u>Cykelköket Gamlestaden</u> </a>
+* <a href="https://ingenjorsarbeteforklimatet.se" target="_blank"><u>Ingenjörsarbete
+För Klimatet (IFK)</u> </a>
+* <a href="https://stadsdelsvaxthus.se" target="_blank"><u>Stadsdelsväxthus i Majorna</u> </a>
+* <a href="https://bidgamlestaden.se/" target="_blank"><u>BID Gamlestaden</u> </a>
+* <a href="https://stadsnaraodling.goteborg.se/" target="_blank"><u>Göteborgs kommun</u> </a>
