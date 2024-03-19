@@ -14,14 +14,14 @@ medlemskap genererar.
 För de flesta projekt som föreningen bedriver behövs inte medlemskap, men det är
 ett fint sätt att stötta föreningen.
 
-Ett medlemskap i föreningen kostar 100 kr per kalender år. Detta swishas till
-nummer 0700907910 eller sätts in på bankkonto: `6691 - 732 976 332`. Obs!
-Märk din inbetalning med för- och efternamn.
+Ett medlemskap i föreningen kostar 100 kr per kalenderår. Detta swishas till
+nummer 070-090 79 10 eller sätts in på bankkonto: `6691 - 732 976 332`. <b>Obs!
+Märk din inbetalning med för- och efternamn.</b>
 
 ### Nyhetsbrev
 
 Vill du ta del av föreningens nyhetsbrev gällande våra projekt och
-skördetider, så kan du registrera dig i fältet nedan.
+skördetider kan du registrera dig i fältet nedan.
 
 <iframe src="https://docs.google.com/forms/d/e/
 1FAIpQLSeqbZaPCw-62A8QtyPQS4QScgOsQG3jDK99WR_W-GlP4Gxcsw/viewform?embedded=true"
