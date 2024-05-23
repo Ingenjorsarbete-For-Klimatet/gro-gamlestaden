@@ -9,19 +9,17 @@ image:
 
 ## Odling
 
-Gro Gamlestaden vill bedriva Stadsdelsodlingar i Östra Göteborg.
+### Information
 
-Vi är just nu i samtal med kommunen angående möjliga platser där dessa planer
-kan realiseras.
-På dessa kvadratmeter har vi valt att odla basvaror åt samtliga
-boende i stadsdelen, eller de människor som råkar ha vägarna förbi.
-Hur odlingen har planerats, vilka grödor som finns samt
-när de är redo för skörd finns angivet på informationstavlan precis framför
-odlingarna. Vi ber alla som besöker platserna att hjälpa till att hålla det snyggt,
-nyttja sunt förnuft samt sprida idén om självförsörjande stadsdelar vidare till
-fler delar av staden.
+Gro Gamlestaden bedriver just nu två Stadsdelsodlingar i Östra Göteborg. På dessa
+kvadratmeter har vi valt att odla basvaror åt samtliga boende i stadsdelen, eller
+de människor som råkar ha vägarna förbi. Hur odlingen har planerats, vilka grödor
+som finns samt när de är redo för skörd finns angivet på informationstavlan
+precis framför odlingarna. Vi ber alla som besöker platserna att hjälpa till att
+hålla det snyggt, nyttja sunt förnuft samt sprida idén om självförsörjande
+stadsdelar vidare till fler delar av staden.
 
-### Hur odlar vi?
+#### Hur odlar vi?
 
 Våra odlingar följer enkla principer.
 
@@ -36,7 +34,7 @@ Högt matvärde, rikgivande och enkla att sköta.
 Vi odlar inte grödor som riskerar att skördas i för stor uträckning av
 enskilda individer, t.ex. av ekonomiska skäl.
 
-### Vilka får skörda?
+#### Vilka får skörda?
 
 Kort och gott får alla skörda.
 Odlingen är ett projekt som inbjuder alla människor att  leva ett mer
@@ -53,7 +51,7 @@ på tavlan vid odlingen!
 För att få tillgång till verktygslådan med spade, grep och arbetshandskar ber vi
 dig registrera ett medlemskap på hemsidan och invänta ett mejl med mer information.
 
-### Vill du vara med och odla?
+#### Vill du vara med och odla?
 
 På Gro Gamlestaden är vi flera personer som har ett odlingsintresse, med olika
 perspektiv på hur man kan odla. Detta innebär att vi inte bara samarbetar utan
@@ -61,3 +59,32 @@ att vi lär oss av varandra.
 Vill du vara med för att lära dig mer om odling, vara del av projektet, eller
 bara få arbeta med kroppen så tveka inte på att höra av dig. Vi tar gärna emot
 synpunkter, förslag och nya deltagare.
+
+### Kaggsplätten
+
+På drygt 200 kvm utanför Cykelköket Gamlestaden förvaltar föreningen en odling.
+På denna plats växer just nu gullök, potatis av den svenska sorten Maria, samt
+jordärtskocka.
+
+På platsen finns en skylt med information om hur grödorna har placerats samt när
+dem är redo för skörd.
+
+Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
+
+<img src="/css/kaggsplatten.jpg" alt="Kaggsplätten" width=100%
+class="img-thumbnail">
+
+### Kvibergsplätten
+
+På drygt 300 kvm sydväst om Kvibergshållplatsen, utanför St. Josefs Kapell
+förvaltar föreningen en odling. På denna plats växer just nu gullök, potatis,
+samt jordärtskocka. Potatisen är  av sorterna Dior, Okta, Maria, Ballerina,
+Early Rose samt Juliette.
+
+På platsen finns en skylt med information om hur grödorna har placerats samt när
+dem är redo för skörd.
+
+Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
+
+<img src="/css/kvibergsplatten.jpg" alt="Kvibergsplätten" width=100%
+class="img-thumbnail">
