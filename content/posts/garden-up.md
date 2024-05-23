@@ -12,5 +12,5 @@ Under tiden det växer planeras skyltar för respektive odlingsplats.
 Hjälp gärna till att rensa ogräs! Kvickrot, gräs och maskros är några av de
 växter som finns bland grödorna.
 
-<img src="data/odling_nyhet.jpg" alt="Odlingen" width=100%
+<img src="/css/odling_nyhet.jpg" alt="Odlingen" width=100%
 class="img-thumbnail">

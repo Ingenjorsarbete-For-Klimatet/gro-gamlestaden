@@ -71,7 +71,7 @@ dem är redo för skörd.
 
 Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
 
-<img src="data/kaggsplatten.jpg" alt="Kaggsplätten" width=100%
+<img src="/css/kaggsplatten.jpg" alt="Kaggsplätten" width=100%
 class="img-thumbnail">
 
 ### Kvibergsplätten
@@ -86,5 +86,5 @@ dem är redo för skörd.
 
 Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
 
-<img src="data/kvibergsplatten.jpg" alt="Kvibergsplätten" width=100%
+<img src="/css/kvibergsplatten.jpg" alt="Kvibergsplätten" width=100%
 class="img-thumbnail">
