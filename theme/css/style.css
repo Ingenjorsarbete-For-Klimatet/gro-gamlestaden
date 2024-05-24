@@ -11,9 +11,24 @@ Version: 0.1
 
 /* Footer */
 
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
 /* End Footer */
 
 /* Content */
+
+body  {
+    position: relative;
+    min-height: 100vh;
+}
+
+main {
+    padding-bottom: 100px;
+}
 
 #main .page {
     margin: 0 auto;
