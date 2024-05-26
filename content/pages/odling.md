@@ -71,6 +71,11 @@ dem är redo för skörd.
 
 Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
 
+Position: <a href="https://www.google.com/maps/place/57%C2%B044'00.7%22N+12%C2%
+B000'59.4%22E/@57.7335185,12.0139314,17z/data=!3m1!4b1!4m4!3m3!8m2!3d57.7335185!
+4d12.0165063?entry=ttu" target="_blank"><u>
+(57.7335185, 12.01650625)</u> </a>
+
 <img src="/css/kaggsplatten.jpg" alt="Kaggsplätten" width=100%
 class="img-thumbnail">
 
@@ -85,6 +90,9 @@ På platsen finns en skylt med information om hur grödorna har placerats samt n
 dem är redo för skörd.
 
 Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
+
+Position: <a href="https://maps.app.goo.gl/qaaFYK3kNT2kMyPo6" target="_blank"><u>
+(57.73588774, 12.02536325)</u> </a>
 
 <img src="/css/kvibergsplatten.jpg" alt="Kvibergsplätten" width=100%
 class="img-thumbnail">
