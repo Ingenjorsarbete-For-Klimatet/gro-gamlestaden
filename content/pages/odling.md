@@ -9,8 +9,6 @@ image:
 
 ## Odling
 
-### Information
-
 Gro Gamlestaden bedriver just nu två Stadsdelsodlingar i Östra Göteborg. På dessa
 kvadratmeter har vi valt att odla basvaror åt samtliga boende i stadsdelen, eller
 de människor som råkar ha vägarna förbi. Hur odlingen har planerats, vilka grödor
@@ -62,41 +60,47 @@ synpunkter, förslag och nya deltagare.
 
 <div id="kaggsplatten">
 <h3>Kaggsplätten</h3>
-
-På drygt 200 kvm utanför Cykelköket Gamlestaden förvaltar föreningen en odling.
-På denna plats växer just nu gullök, potatis av den svenska sorten Maria, samt
-jordärtskocka.
-
-På platsen finns en skylt med information om hur grödorna har placerats samt när
-dem är redo för skörd.
-
-Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
-
-Position: <a href="https://www.google.com/maps/place/57%C2%B044'00.7%22N+12%C2%
-B000'59.4%22E/@57.7335185,12.0139314,17z/data=!3m1!4b1!4m4!3m3!8m2!3d57.7335185!
-4d12.0165063?entry=ttu" target="_blank"><u>
-(57.7335185, 12.01650625)</u> </a>
-
+<p>
+    På drygt 200 kvm utanför Cykelköket Gamlestaden förvaltar föreningen en odling.
+    På denna plats växer just nu gullök, potatis av den svenska sorten Maria, samt
+    jordärtskocka.
+</p>
+<p>
+    På platsen finns en skylt med information om hur grödorna har placerats samt
+    när dem är redo för skörd.
+</p>
+<p>
+    Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
+</p>
+<p>
+    Position: <a href="https://www.google.com/maps/place/57%C2%B044'00.7%22N+12%C2%
+    B000'59.4%22E/@57.7335185,12.0139314,17z/data=!3m1!4b1!4m4!3m3!8m2!3d57.7335185!
+    4d12.0165063?entry=ttu" target="_blank"><u>
+    (57.7335185, 12.01650625)</u> </a>
+</p>
 <img src="/css/kaggsplatten.jpg" alt="Kaggsplätten" width=100%
 class="img-thumbnail">
 </div>
 
 <div id="kvibergsplatten">
 <h3>Kvibergsplätten</h3>
-
+<p>
 På drygt 300 kvm sydväst om Kvibergshållplatsen, utanför St. Josefs Kapell
 förvaltar föreningen en odling. På denna plats växer just nu gullök, potatis,
 samt jordärtskocka. Potatisen är  av sorterna Dior, Okta, Maria, Ballerina,
 Early Rose samt Juliette.
-
+</p>
+<p>
 På platsen finns en skylt med information om hur grödorna har placerats samt när
 dem är redo för skörd.
-
+</p>
+<p>
 Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
-
+</p>
+<p>
 Position: <a href="https://maps.app.goo.gl/qaaFYK3kNT2kMyPo6" target="_blank"><u>
 (57.73588774, 12.02536325)</u> </a>
-
+</p>
 <img src="/css/kvibergsplatten.jpg" alt="Kvibergsplätten" width=100%
 class="img-thumbnail">
 </div>
