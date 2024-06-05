@@ -34,20 +34,36 @@
 				<img src="/css/gro_logo_trans.png" width="70" height="70" alt="Gro Gamlestaden">
 			  </a>
 			  <a class="navbar-brand" href="/" style="font-family:sans-serif ">Gro Gamlestaden</a>
-				<!--<a class="navbar-brand nav_link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" href="/">
-					{{title}}</a> -->
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav">
-					{% for title, link in (menuitems.items() | list)[1:7] %}
-					<li class="nav-item" id="nav-{{ title }}" title="{{ title }}">
-						<a class="nav-{{ title }} nav-link {% if title=="hem" %}activeMenu{% endif %}" title="{{ title }}" {% if ( link=="hem" ) %} href="/" {% else %} href="/{{link}}/" {% endif %}>
-							{{title}}
-						</a>
+					<li class="nav-item">
+						<a class="nav-link", title="Nyheter"  href="/">Nyheter</a>
 					</li>
-					{% endfor %}
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						  Odling
+						</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+						  <a class="dropdown-item" href="/odling/">Information</a>
+						  <a class="dropdown-item" href="/odling#kaggsplatten">Kaggsplätten</a>
+						  <a class="dropdown-item" href="/odling#kvibergsplatten">Kvibergsplätten</a>
+						</div>
+					  </li>
+					<li class="nav-item">
+						<a class="nav-link", title="Medlemskap"  href="/medlemskap/">Medlemskap</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link", title="Övriga Projekt"  href="/ovriga_projekt/">Övriga Projekt</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link", title="Samarbeten"  href="/samarbeten/">Samarbeten</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link", title="Om oss"  href="/om/">Om oss</a>
+					</li>
 				</ul>
 			</div>
 		</nav>
