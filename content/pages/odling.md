@@ -66,8 +66,8 @@ synpunkter, förslag och nya deltagare.
     jordärtskocka.
 </p>
 <p>
-    På platsen finns en skylt med information om hur grödorna har placerats samt när
-    dem är redo för skörd.
+    På platsen finns en skylt med information om hur grödorna har placerats samt
+    när dem är redo för skörd.
 </p>
 <p>
     Hjälp gärna till att hålla platsen snygg och bäddarna fria från ogräs.
