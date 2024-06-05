@@ -60,7 +60,8 @@ Vill du vara med för att lära dig mer om odling, vara del av projektet, eller
 bara få arbeta med kroppen så tveka inte på att höra av dig. Vi tar gärna emot
 synpunkter, förslag och nya deltagare.
 
-### Kaggsplätten
+<div id="kaggsplatten">
+<h3>Kaggsplätten</h3>
 
 På drygt 200 kvm utanför Cykelköket Gamlestaden förvaltar föreningen en odling.
 På denna plats växer just nu gullök, potatis av den svenska sorten Maria, samt
@@ -78,8 +79,10 @@ B000'59.4%22E/@57.7335185,12.0139314,17z/data=!3m1!4b1!4m4!3m3!8m2!3d57.7335185!
 
 <img src="/css/kaggsplatten.jpg" alt="Kaggsplätten" width=100%
 class="img-thumbnail">
+</div>
 
-### Kvibergsplätten
+<div id="kvibergsplatten">
+<h3>Kvibergsplätten</h3>
 
 På drygt 300 kvm sydväst om Kvibergshållplatsen, utanför St. Josefs Kapell
 förvaltar föreningen en odling. På denna plats växer just nu gullök, potatis,
@@ -96,3 +99,4 @@ Position: <a href="https://maps.app.goo.gl/qaaFYK3kNT2kMyPo6" target="_blank"><u
 
 <img src="/css/kvibergsplatten.jpg" alt="Kvibergsplätten" width=100%
 class="img-thumbnail">
+</div>
