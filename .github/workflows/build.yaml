@@ -35,7 +35,7 @@ jobs:
         with:
           python-version: "3.10"
       - name: Install mysgen
-        run: pip install pip install mysgen==0.4.2
+        run: pip install mysgen==0.4.2
       - name: Build site
         run: python -m mysgen.mysgen && cp -r theme/css/ output/css/ && mv output _site
       - name: Upload artifact
