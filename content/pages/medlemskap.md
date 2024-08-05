@@ -15,7 +15,7 @@ För de flesta projekt som föreningen bedriver behövs inte medlemskap, men det
 ett fint sätt att stötta föreningen.
 
 Ett medlemskap i föreningen kostar 100 kr per kalenderår. Detta swishas till
-nummer 070-090 79 10 eller sätts in på bankkonto: `6691 - 732 976 332`. <b>Obs!
+nummer 072-932 03 82 eller sätts in på bankkonto: `9274 - 451 651 1`. <b>Obs!
 Märk din inbetalning med för- och efternamn.</b>
 
 ### Nyhetsbrev
