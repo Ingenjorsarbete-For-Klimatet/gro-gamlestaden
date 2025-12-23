@@ -39,7 +39,7 @@ jobs:
       - name: Build site
         run: python -m mysgen.mysgen && cp -r theme/css/ output/css/ && mv output _site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
 
   # Deployment job
   deploy:
