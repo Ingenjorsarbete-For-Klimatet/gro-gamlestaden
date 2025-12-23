@@ -12,7 +12,7 @@ Jorden i deras bädd är full av mask och lätt att gräva i. Omkring 100 vitlö
 såtts när jorden ändå var uppgrävd och vänd, med förhoppningen om att jordärtskockor
 och vitlökar ska kunna gro tillsammans i vår med lite tillskott av gödsel.
 
-Jordärtskockorna som skördades finns i verktygslådan utanför Cykelköket. Blir 
+Jordärtskockorna som skördades finns i verktygslådan utanför Cykelköket. Blir
 det kallare får vi ta in dom till kylen. Men hämta den som vill, de funkar både
 till soppa och chips!
 
