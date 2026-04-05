@@ -1,6 +1,6 @@
 ---
 title: Medlemskap
-date: 2024-01-25
+date: 2026-04-05
 author: Daniel Johansson
 type: page
 status: published
@@ -14,7 +14,7 @@ medlemskap genererar.
 För de flesta projekt som föreningen bedriver behövs inte medlemskap, men det är
 ett fint sätt att stötta föreningen.
 
-Ett medlemskap i föreningen kostar 100 kr per kalenderår. Detta swishas till
+Ett medlemskap i föreningen kostar 150 kr per kalenderår. Detta swishas till
 nummer 072-932 03 82 eller sätts in på bankkonto: `9274 - 451 651 1`. <b>Obs!
 Märk din inbetalning med för- och efternamn.</b>
 
