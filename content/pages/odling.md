@@ -17,6 +17,9 @@ precis framför odlingarna. Vi ber alla som besöker platserna att hjälpa till 
 hålla det snyggt, nyttja sunt förnuft samt sprida idén om självförsörjande
 stadsdelar vidare till fler delar av staden.
 
+<a href="https://docs.google.com/spreadsheets/d/1yiVXBSN5_ew6P9gNhoxxjXT0K7kiu7oDIcQ_IHgxVYY/edit?usp=drivesdk"
+target="_blank">Planeringskalender</a>.
+
 #### Hur odlar vi?
 
 Våra odlingar följer enkla principer.
