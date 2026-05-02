@@ -5,7 +5,6 @@ author: Daniel Johansson
 category: Posts
 tags: odling
 status: published
-image: 
 ---
 
 Idag kör vi arbetsdag i föreningen med start kl 10.00. Visst förarbete har redan
