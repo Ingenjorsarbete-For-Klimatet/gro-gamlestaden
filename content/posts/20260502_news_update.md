@@ -25,10 +25,10 @@ Detaljerad odlingskarta kommer.
 <img src="/css/arbetsdag_maj_2026_1.jpg" alt="Odlingen" width=67%
 class="img-thumbnail">
 
-<img src="/css/arbetsdag_maj_2026_2.jpg" alt="Odlingen" width=67%
+<img src="/css/arbetsdag_maj_2026_2.jpeg" alt="Odlingen" width=67%
 class="img-thumbnail">
 
-<img src="/css/arbetsdag_maj_2026_3.jpg" alt="Odlingen" width=67%
+<img src="/css/arbetsdag_maj_2026_3.jpeg" alt="Odlingen" width=67%
 class="img-thumbnail">
 
 🌻🌷🌼🥦🥒🫑🥝🥑
